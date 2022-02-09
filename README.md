@@ -13,3 +13,6 @@ Pulse + is a DayZ style pulse checking script. This script it highly configurabl
 * /pulseset
 * /resetpulse
 
+# Images:
+![](https://cdn.discordapp.com/attachments/858790280735621161/863877306417676308/unknown.png)
+![](https://cdn.discordapp.com/attachments/858790280735621161/863877242148618271/unknown.png)
